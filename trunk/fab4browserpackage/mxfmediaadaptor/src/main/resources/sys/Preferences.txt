@@ -1,0 +1,5 @@
+mediaadaptor	mxf 			MXF
+mediaadaptor	application/mxf	MXF
+
+remap	MXF		uk.ac.liverpool.MXF.MXFma
+
